@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25123.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SuperDaddy", "SuperDaddy\SuperDaddy.csproj", "{02302B69-42B3-4FB7-8225-72BFFB1F08C4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SuperDaddy.Tests", "SuperDaddy.Tests\SuperDaddy.Tests.csproj", "{4472143C-7301-4B82-AA90-B45527379432}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{02302B69-42B3-4FB7-8225-72BFFB1F08C4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{02302B69-42B3-4FB7-8225-72BFFB1F08C4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{02302B69-42B3-4FB7-8225-72BFFB1F08C4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{02302B69-42B3-4FB7-8225-72BFFB1F08C4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4472143C-7301-4B82-AA90-B45527379432}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4472143C-7301-4B82-AA90-B45527379432}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4472143C-7301-4B82-AA90-B45527379432}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4472143C-7301-4B82-AA90-B45527379432}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
